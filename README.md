@@ -1,1 +1,3 @@
-# cs1102-24f3100234
+# About Me
+
+Hi, I am Ashwanth Reddy, a Linux enthusiast and CS student. This repository contains my CS1102 Linux Lab assignments.
